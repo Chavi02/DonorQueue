@@ -33,7 +33,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/Chavi02/DonorQueue.git
-cd donor-queue
+cd Donor Queue
 ```
 
 ### **Backend Setup**
